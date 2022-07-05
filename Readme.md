@@ -1,0 +1,1 @@
+The main code is in the file "Thesis.ipynb", data_loader is a file containing helper functions which load the data. The data itself is in the three folders: Data, Examples and Images.
